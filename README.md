@@ -8,7 +8,6 @@ A simple web application that allows users to convert currency values. Users can
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 
 
